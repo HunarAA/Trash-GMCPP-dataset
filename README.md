@@ -1,4 +1,4 @@
-# trash-detection-dataset
+# Trash-GMCPP dataset
 Inside this repo, you'll find a rich collection of data that consists of 5 distinct classes of trash materials: metal, glass, cardboard, paper, and plastic.
 
 Our trash dataset is a comprehensive collection that has been meticulously curated to include a wide variety of examples for each class. This is to ensure that the dataset is both diverse and representative of real-world scenarios.
